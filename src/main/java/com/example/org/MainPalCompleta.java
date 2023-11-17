@@ -74,6 +74,5 @@ public class MainPalCompleta {
         Matcher m = p.matcher(sb);  // Resultado busqueda sobre el sb
         numSustituciones+= m.results().count(); // Número de coincidencias
         return m.replaceAll(palSust);  // Sustitución de las coincidencias en el sb por palSust
-
     }
 }
