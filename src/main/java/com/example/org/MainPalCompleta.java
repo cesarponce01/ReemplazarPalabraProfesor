@@ -14,6 +14,9 @@ import java.util.regex.Pattern;
  Pide una palabra  y un fichero de texto por consola.
  Sustituye la palabra por su equivalente en mayusculas.
  Realiza acceso aleatorio al fichero.
+
+
+ NO HACER PUSH ES EL TRABAJO DEL PROFESOR ESTÁ CLONADO
  */
 public class MainPalCompleta {
     static long numSustituciones = 0L;
