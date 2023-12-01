@@ -56,7 +56,7 @@ public class Main {
                     // Graba el string en posición posFichero
                     archivo.writeBytes(sb.toString());
                     numEscrituras++;
-                } // if
+                }
 
                 posFichero=archivo.getFilePointer(); // posición de la siguiente línea
             }
